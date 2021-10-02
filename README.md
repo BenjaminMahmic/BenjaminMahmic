@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?BenjaminMahmic=anuraghazra&repo=github-readme-stats)](https://github.com/BenjaminMahmic/github-readme-stats)
+<img align="left" alt="Benjamin Mahmic Github stats> src="https://github-readme-stats-vercel.app/api?BenjaminMahmic&show_icons=true&hide_border=true" />
