@@ -1,1 +1,1 @@
-<img align="left" alt="Benjamin Mahmic Github stats> src="https://github-readme-stats-vercel.app/api?BenjaminMahmic&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BenjaminMahmic=anuraghazra)](https://github.com/BenjaminMahmic/github-readme-stats)
