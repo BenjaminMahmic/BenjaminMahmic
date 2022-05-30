@@ -3,7 +3,7 @@ align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
 
 🔭 I’m working as a mobile developer.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codersangam&label=Views&color=green&style=plastic" alt="BenjaminMahmic" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BenjaminMahmic&label=Views&color=green&style=plastic" alt="BenjaminMahmic" /> </p>
 
 <p align="center">
  </a>
