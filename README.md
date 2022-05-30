@@ -5,7 +5,7 @@ align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
 ° I’m working as a mobile developer °
 </p>
 
-<p align="center"> <img src="https://img.shields.io/github/followers/BenjaminMahmic?style=social" alt="BenjaminMahmic" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/BenjaminMahmic?color=1f222e&label=_%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Followers%20%20%20_%20%20%20%20%20&style=social" alt="BenjaminMahmic" /> </p>
 
 <br/>
 
