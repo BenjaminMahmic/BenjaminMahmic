@@ -21,7 +21,7 @@ align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
 
 <p align="center">
   <a href="https://github.com/BenjaminMahmic">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="benjamin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samih93&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="benjamin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminMahmic&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
