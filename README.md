@@ -7,14 +7,6 @@ align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
 
 <p align="center"> <img src="https://img.shields.io/github/followers/BenjaminMahmic?style=social" alt="BenjaminMahmic" /> </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/benjamin97mahmic">
-  <img align="left" alt="Benjamin Linkedin" width="100px" height="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://www.facebook.com/benjamin97mahmic/">
-  <img align="left" alt="Benjamin Facebook" width="100px" height="28px" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white&color=blue" />
-</a>
-</p>
-
 <br/>
 
 ## Streak stats
