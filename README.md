@@ -5,14 +5,11 @@ align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
 ° I’m working as a mobile developer °
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BenjaminMahmic&label=Views&color=green&style=social" alt="BenjaminMahmic" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/BenjaminMahmic?style=social" alt="BenjaminMahmic" /> </p>
 
 <p align="center">
- </a>
 <a href="https://www.linkedin.com/in/benjamin97mahmic">
   <img align="left" alt="Benjamin Linkedin" width="100px" height="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="https://www.facebook.com/benjamin97mahmic/">
   <img align="left" alt="Benjamin Facebook" width="100px" height="28px" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white&color=blue" />
 </a>
@@ -20,7 +17,7 @@ align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
 
 <br/>
 
-## 🔥 Streak stats
+## Streak stats
 
 <p align="center">
   <a href="https://github.com/BenjaminMahmic">
@@ -28,7 +25,7 @@ align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
   </a>
 </p>
 
-## 📊 Github stats
+## Github stats
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
