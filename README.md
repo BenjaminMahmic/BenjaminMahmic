@@ -10,9 +10,6 @@ align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BenjaminMahmic&label=Views&color=green&style=social" alt="BenjaminMahmic" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/BenjaminMahmic?style=social" alt="BenjaminMahmic" /> </p>
 
-
-
-
 <p align="center">
  </a>
 <a href="https://www.linkedin.com/in/benjamin97mahmic">
