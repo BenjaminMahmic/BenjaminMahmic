@@ -1,9 +1,17 @@
 <h1 ![158561373-fb5ea325-2449-4f25-9619-a30dec5170ba](https://user-images.githubusercontent.com/78031951/170569691-1f0d5b09-3add-4f1a-83a3-ccebb28a8788.png)
 align="center"><b>WELCOME TO MY PROFILE 👋</b></h1>
 
-🔭 I’m working as a mobile developer.
+<br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BenjaminMahmic&label=Views&color=green&style=plastic" alt="BenjaminMahmic" /> </p>
+<p align="center">
+ 🔭 I’m working as a mobile developer.
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BenjaminMahmic&label=Views&color=green&style=social" alt="BenjaminMahmic" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/BenjaminMahmic?style=social" alt="BenjaminMahmic" /> </p>
+
+
+
 
 <p align="center">
  </a>
