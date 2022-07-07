@@ -1,13 +1,6 @@
-<br/>
+![Screenshot_4](https://user-images.githubusercontent.com/89051381/177879921-5a35c8db-f68d-4087-9e44-73a2bbb8db76.jpg)
 
-<h3 align="center"><b>WELCOME TO MY PROFILE 👋</b></h2>
-
-<p align="center">
-° I’m working as a mobile developer °
-</p>
-
-<p align="center"> <img src="https://img.shields.io/github/followers/BenjaminMahmic?color=1f222e&label=Followers&style=social" alt="BenjaminMahmic" /> </p>
-
+<br>
 
 ### Streak stats
 
