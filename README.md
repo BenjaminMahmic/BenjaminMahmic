@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/BenjaminMahmic">
-    <img alt="Benjamin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminMahmic&hide_border=true&bg_color=1F222E"/>
+    <img alt="Benjamin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=BenjaminMahmic&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=775150&currStreakNum=2483A0&currStreakLabel=2483A0&ring=775150&sideNums=2483A0&dates=6E7773"/>
   </a>
 </p>
 
