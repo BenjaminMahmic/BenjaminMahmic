@@ -2,9 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/BenjaminMahmic">
-    <img alt="Benjamin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=BenjaminMahmic&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=775150&currStreakNum=2483A0&currStreakLabel=2483A0&ring=775150&sideNums=2483A0&dates=6E7773"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BenjaminMahmic&theme=vue-dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=845&background=45%2C28736E%2C912D2D&fire=EB4343&ring=EB4343&currStreakNum=EBEBEB&border=EB545400&dates=C8BCBD&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB4343" alt="GitHub Streak" /></a>
 </p>
 
 
